@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "RTX 4060",
+    "price": 299,
+    "imgUrl": "/imgs/rtx4060.webp"
+  },
+  {
+    "id": 2,
+    "name": "RTX 4070",
+    "price": 599,
+    "imgUrl": "/imgs/rtx4070.webp"
+  },
+  {
+    "id": 3,
+    "name": "RTX 4080",
+    "price": 999,
+    "imgUrl": "/imgs/rtx4080.webp"
+  },
+  {
+    "id": 4,
+    "name": "RTX 4090",
+    "price": 1599,
+    "imgUrl": "/imgs/rtx4090.webp"
+  }
+]
